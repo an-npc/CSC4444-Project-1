@@ -1,6 +1,9 @@
 # Project 1: MNIST 
 This project introduces you to both classical machine learning and deep learning approaches for image classification. You will work with the MNIST handwritten digit dataset, implement several classifiers, and compare their performance.
 
+## Overview
+This project was initially done with a Jupyter Notebook. It makes debugging easier as the code is more modular and you can resume debugging in certain areas without having to restart everything. The notebooks will have more comments with notes or just no longer in use code. The run_all_models.py is all the notebooks combined into one to meet the python code submission requirement. x_data.npz will have all 60,000 images where as x_short_data.npz will store only 10,000, 1,000 images from each type for ease of debugging. 
+
 ## Dataset: MNIST
 ~60,000 images
 
